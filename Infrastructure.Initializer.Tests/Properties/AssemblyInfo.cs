@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Infrastructure.Initializer")]
-[assembly: AssemblyDescription("Framework for managing and executing initialize and teardown steps in applications")]
+[assembly: AssemblyTitle("Infrastructure.Initializer.Tests")]
+[assembly: AssemblyDescription("Tests for framework for managing and executing initialize and teardown steps in applications")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Vitaly Tartynov")]
-[assembly: AssemblyProduct("Infrastructure.Initializer")]
+[assembly: AssemblyProduct("Infrastructure.Initializer.Tests")]
 [assembly: AssemblyCopyright("Copyright © Vitaly.Tartynov 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("e12d7def-5349-44a5-a863-c335f3390a56")]
+[assembly: Guid("2a67c243-be29-4c29-90bf-ec7a13ef3e42")]
 
 // Version information for an assembly consists of the following four values:
 //
