@@ -1,1 +1,1 @@
-nuget.exe pack ../Infrastructure.Initializer/Infrastructure.Initializer/Infrastructure.Initializer.csproj
+nuget.exe pack ../Infrastructure.Initializer/Infrastructure.Initializer/Infrastructure.Initializer.csproj -Build -Properties Configuration=Release

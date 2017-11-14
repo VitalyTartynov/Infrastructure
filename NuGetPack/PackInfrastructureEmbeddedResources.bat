@@ -1,1 +1,1 @@
-nuget.exe pack ../Infrastructure.EmbeddedResources/Infrastructure.EmbeddedResources/Infrastructure.EmbeddedResources.csproj
+nuget.exe pack ../Infrastructure.EmbeddedResources/Infrastructure.EmbeddedResources/Infrastructure.EmbeddedResources.csproj -Build -Properties Configuration=Release
