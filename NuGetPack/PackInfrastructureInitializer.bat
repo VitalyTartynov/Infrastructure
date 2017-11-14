@@ -1,0 +1,1 @@
+nuget.exe pack ../Infrastructure.Initializer/Infrastructure.Initializer/Infrastructure.Initializer.csproj

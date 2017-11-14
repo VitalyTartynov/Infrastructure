@@ -1,0 +1,1 @@
+nuget.exe pack ../Infrastructure.EmbeddedResources/Infrastructure.EmbeddedResources/Infrastructure.EmbeddedResources.csproj
