@@ -1,0 +1,1 @@
+nuget.exe pack ../Infrastructure.Universal/Infrastructure.Universal/Infrastructure.Universal.csproj -Build -Properties Configuration=Release

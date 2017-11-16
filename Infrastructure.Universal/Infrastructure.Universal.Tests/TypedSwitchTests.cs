@@ -1,7 +1,7 @@
 ﻿using System;
 using NUnit.Framework;
 
-namespace Infrastructure.Tests
+namespace Infrastructure.Universal.Tests
 {
     [TestFixture]
     public class TypedSwitchTests
