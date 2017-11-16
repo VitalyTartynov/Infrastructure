@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Infrastructure")]
+[assembly: AssemblyTitle("Infrastructure.Universal")]
 [assembly: AssemblyDescription("Framework for common parts like useful extensions, attributes etc.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Vitaly Tartynov")]
-[assembly: AssemblyProduct("Infrastructure")]
+[assembly: AssemblyProduct("Infrastructure.Universal")]
 [assembly: AssemblyCopyright("Copyright © Vitaly.Tartynov 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
