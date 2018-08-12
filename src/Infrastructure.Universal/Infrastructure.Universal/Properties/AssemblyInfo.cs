@@ -4,9 +4,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Infrastructure.Universal")]
 [assembly: AssemblyDescription("Framework for common parts like useful extensions, attributes etc.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Vitaly Tartynov")]
+[assembly: AssemblyCompany("Vitaly Tartynov, Andrey Vasenev")]
 [assembly: AssemblyProduct("Infrastructure.Universal")]
-[assembly: AssemblyCopyright("Copyright © Vitaly.Tartynov 2017-2018")]
+[assembly: AssemblyCopyright("Copyright © Vitaly Tartynov, Andrey Vasenev 2017-2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
