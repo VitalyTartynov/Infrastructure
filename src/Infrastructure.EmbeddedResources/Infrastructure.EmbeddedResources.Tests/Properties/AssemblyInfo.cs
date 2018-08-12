@@ -4,9 +4,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Infrastructure.EmbeddedResources.Tests")]
 [assembly: AssemblyDescription("Tests for framework for simplify working with embedded resources")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Vitaly Tartynov")]
+[assembly: AssemblyCompany("Vitaly Tartynov, Andrey Vasenev")]
 [assembly: AssemblyProduct("Infrastructure.EmbeddedResources")]
-[assembly: AssemblyCopyright("Copyright © Vitaly.Tartynov 2017-2018")]
+[assembly: AssemblyCopyright("Copyright © Vitaly Tartynov, Andrey Vasenev 2017-2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

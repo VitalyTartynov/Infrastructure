@@ -4,9 +4,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Infrastructure.Initializer")]
 [assembly: AssemblyDescription("Framework for managing and executing initialize and teardown steps in applications")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Vitaly Tartynov")]
+[assembly: AssemblyCompany("Vitaly Tartynov, Andrey Vasenev")]
 [assembly: AssemblyProduct("Infrastructure.Initializer")]
-[assembly: AssemblyCopyright("Copyright © Vitaly.Tartynov 2017-2018")]
+[assembly: AssemblyCopyright("Copyright © Vitaly Tartynov, Andrey Vasenev 2017-2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
