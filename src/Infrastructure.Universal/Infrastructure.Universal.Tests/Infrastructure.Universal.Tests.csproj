@@ -46,7 +46,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Paths\PathHelperTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Temps\TempDirectoryTests.cs" />
+    <Compile Include="Temps\TempFileTests.cs" />
     <Compile Include="TypedSwitchTests.cs" />
   </ItemGroup>
   <ItemGroup>
