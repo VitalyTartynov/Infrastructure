@@ -1,5 +1,7 @@
 # Infrastructure
-[![Build status](https://ci.appveyor.com/api/projects/status/y04xvpyugwc2wkbc/branch/master?svg=true)](https://ci.appveyor.com/project/VitalyTartynov/infrastructure/branch/master) [![Build status](https://ci.appveyor.com/api/projects/status/y04xvpyugwc2wkbc/branch/develop?svg=true)](https://ci.appveyor.com/project/VitalyTartynov/infrastructure/branch/develop) [![BCH compliance](https://bettercodehub.com/edge/badge/VitalyTartynov/Infrastructure?branch=develop)](https://bettercodehub.com/)
+[![Build status](https://ci.appveyor.com/api/projects/status/y04xvpyugwc2wkbc/branch/master?svg=true)](https://ci.appveyor.com/project/VitalyTartynov/infrastructure/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/y04xvpyugwc2wkbc/branch/develop?svg=true)](https://ci.appveyor.com/project/VitalyTartynov/infrastructure/branch/develop)
+[![BCH compliance](https://bettercodehub.com/edge/badge/VitalyTartynov/Infrastructure?branch=develop)](https://bettercodehub.com/)
 
 ## What is this project?
 `Infrastructure` is a bunch of C# classes that can be useful for many different projects. It can simplify some common tasks, such as:
